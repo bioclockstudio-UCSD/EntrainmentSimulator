@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/bioclockstudio-UCSD/EntrainmentSimulator/maste
 
 When you upload an image here, call it in Twine using the same url -- just change "cat.jpg" to your file's name.
 
-After development, all images need to be moved to ucsd's servers, and all the "img" tags in the Twine will need to be updated.
+After development, all images need to be moved to ucsd's servers, and all the "img" tags in the Twine will need to be updated to call the updated URL.
 
 Name related images with a similar starting string to keep things orderly. Since the last image in the current E.Sim. is numbered 11, start the first set of NEW images by naming then "12_"  (e.g., "12_cat.jpg", "12_dog.jpg" etc) and count up from there for new sets.
 
